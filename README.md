@@ -1,11 +1,15 @@
 #Movie App
 
-echo "# movieapp" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/clydeinwebdev/movieapp.git
-git push -u origin master
+<ul>
+	<li>echo "# movieapp" >> README.md
+	<li>git init
+	<li>git add README.md
+	<li>git commit -m "first commit"
+	<li>git remote add origin https://github.com/clydeinwebdev/movieapp.git
+	<li>git push -u origin master
+</ul>
 
-git remote add origin https://github.com/clydeinwebdev/movieapp.git
-git push -u origin master
+<ul>
+	<li>git remote add origin https://github.com/clydeinwebdev/movieapp.git
+	<li>git push -u origin master
+</ul>
